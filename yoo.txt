@@ -1,2 +1,6 @@
 hiii
+<<<<<<< HEAD
 najia
+=======
+anila
+>>>>>>> refs/remotes/origin/master
